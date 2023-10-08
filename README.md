@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trailblazer072
-- 👀 I’m interested in 
+- 👀 I’m interested in trying new things
 - 🌱 I’m currently learning React and DSA
 - 📫 How to reach me https://www.linkedin.com/in/adarsh-raghuwanshi072/
 
