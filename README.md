@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Adarsh  
 
 💻 I’m a 4th-year Computer Science student  
-🚀 Co-founder & former CMO at [Beiyo](beiyo.in), where I helped scale the startup to a $1M valuation in just 9 months  
+🚀 Co-founder & former CMO at [Beiyo]([beiyo.in](https://beiyo.in/)), where I helped scale the startup to a $1M valuation in just 9 months  
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/adarsh-raghuwanshi072/)  
 
 ---
