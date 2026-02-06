@@ -21,8 +21,7 @@
 ### 🔥 Streaks  
 ![GitHub Streak](https://streak-stats.demolab.com?user=trailblazer072&theme=radical&hide_border=true)  
 -->
-### 📂 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer072&layout=compact&theme=radical)  
+
 
 ---
 
