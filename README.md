@@ -11,6 +11,7 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, PrismaORM, SQL  
 - **Languages:** Java, C++, Python 
+- **DevOps:** Docker, AWS(EC2, S3) 
 - **Other:** Git, GitHub, Data Structures & Algorithms  
 
 ---
